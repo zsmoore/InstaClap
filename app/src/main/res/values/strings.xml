@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaClap</string>
+    <string name="main_input">Input Text</string>
+    <string name="clapify">Clapify</string>
+</resources>
